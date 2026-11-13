@@ -4,7 +4,7 @@ A Windows desktop application built with Electron, React, and TypeScript to show
 
 This application **does not require the Spotify Web API, does not require a Spotify login, and does not require a Spotify Premium account**. It reads track information securely directly from the local Windows Media Session.
 
-[**Download Latest Release**](https://github.com/Xen0morphh/DiscordRPC/releases)
+[**Download Latest Release**](https://github.com/rizalputraaa/discord-lirik/tree/main)
 
 ---
 
